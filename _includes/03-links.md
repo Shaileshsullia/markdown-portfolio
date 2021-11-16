@@ -1,1 +1,1 @@
-text with a link to your GitHub profile (www.xyz.com)
+you can check it out my other talks and streams in www.youtbe.com
